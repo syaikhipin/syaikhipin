@@ -8,8 +8,8 @@ Exploring the potential of AI in the healthcare industry.
 Rust programming language
 Blockchain and smart contract development
 💻 Tech Stack
-JavaScript | TypeScript | React | Next.js | Node.js
-Solidity | Web3.js | Hardhat | Truffle | Ganache
+JavaScript | TypeScript | React | Next.js | Node.js |
+Solidity | Web3.js | Hardhat | Truffle | Ganache |
 Python | TensorFlow | Keras
 🤝 I’m looking to collaborate on
 Decentralized applications (dApps)
