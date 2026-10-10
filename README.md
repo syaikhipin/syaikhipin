@@ -2,7 +2,13 @@
 
 **PhD researcher (Palermo)** · University of Murcia alumnus · I turn state-of-the-art AI into systems that actually ship.
 
-🏅 **Marie Skłodowska-Curie Actions (MSCA) Awardee** — European Commission
+🏅 **Marie Skłodowska-Curie Actions (MSCA) Awardee** — European Commission (EnTrust project)
+
+## 🏆 Achievements
+
+- 🥇 **Digital Skills Cup 2025 — Dual Track Winner** (IT Security & IT Developers), representing Italy against 25+ countries — [UNIPA news](https://www.unipa.it/Digital-Skills-Cup-2025---Riconoscimento-internazionale-al-dott.-Nur-Arifin-Akbar-studente-del-Corso-di-Dottorato-in-Matematica-e-Scienze-Computazionali-dellUniversit-di-Palermo/)
+- 🏛️ **Finalist, Palais de l'Europe, Strasbourg** (2025)
+- 🏆 Winner, EU SocioDigithon · 🥈 Silver, UN World Innovation Day Hackathon
 
 ## 💼 Open to work
 
@@ -15,7 +21,16 @@
 - **Systolic-array AI accelerator** — 2×2 INT8 weight-stationary systolic array in SystemVerilog, PERURI Chip Hackathon 2026 entry (tapeout track).
 - **[arifin.uk](https://syaikhipin.github.io/landing-arifin)** — my venture: applying SOTA AI inside organisations, starting with financial AI.
 
-## 📝 Research (Q1 track)
+## 📝 Research
+
+**Published (selected)** — [full list on ORCID](https://orcid.org/0000-0002-3305-2187):
+- *Systematic Diagnosis and Benchmarking of Memory Systems in Autonomous AI Research Agents* — **KDD 2026** (ACM SIGKDD)
+- *VoiceAgriNet: Dual-Agent Voice Interaction for Trustworthy Data Collection and Retrieval from Smallholder Farmers* — COMPSAC 2026 (IEEE)
+- *Agricultural data privacy and federated learning: a review of challenges and opportunities* — Computers and Electronics in Agriculture, 2025
+- *Memory-Augmented LLMs for Sustainable Urban Energy Management via Weather-Energy Pattern Learning* — UbiComp 2025 Companion (ACM)
+- *Improvement of decision tree classifier accuracy for healthcare insurance fraud prediction by Extreme Gradient Boosting* — ICIMCIS 2020
+
+**In the pipeline (Q1 track):**
 
 - *Does Quantization Matter?* — 2×2 study of weight precision × reasoning effort in code generation (sole author, under review)
 - *GNNs as CFD Solvers* — PRISMA 2020 systematic review (manuscript complete)
