@@ -23,19 +23,17 @@
 
 ## 📝 Research
 
-**Published (selected)** — [full list on ORCID](https://orcid.org/0000-0002-3305-2187):
+**Published (selected)** — [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57222001476) · [ORCID](https://orcid.org/0000-0002-3305-2187):
 - *Systematic Diagnosis and Benchmarking of Memory Systems in Autonomous AI Research Agents* — **KDD 2026** (ACM SIGKDD)
 - *VoiceAgriNet: Dual-Agent Voice Interaction for Trustworthy Data Collection and Retrieval from Smallholder Farmers* — COMPSAC 2026 (IEEE)
 - *Agricultural data privacy and federated learning: a review of challenges and opportunities* — Computers and Electronics in Agriculture, 2025
 - *Memory-Augmented LLMs for Sustainable Urban Energy Management via Weather-Energy Pattern Learning* — UbiComp 2025 Companion (ACM)
 - *Improvement of decision tree classifier accuracy for healthcare insurance fraud prediction by Extreme Gradient Boosting* — ICIMCIS 2020
 
-**In the pipeline (Q1 track):**
+## 🤗 HuggingFace
 
-- *Does Quantization Matter?* — 2×2 study of weight precision × reasoning effort in code generation (sole author, under review)
-- *GNNs as CFD Solvers* — PRISMA 2020 systematic review (manuscript complete)
-- *Distrust-Bounded Reads* — bounded contracts for production inference reads (draft)
-- *The Promotion-Funnel Method* — ahead-of-time bounded dispatch for inference kernels, with Netra Runtime (under review)
+- 🏆 **[CropCortexMCPTest](https://huggingface.co/spaces/syaikhipin/CropCortexMCPTest)** — Agricultural Intelligence Platform with MCP integration
+- 🎖️ HuggingFace swag recipient · 17 public Spaces — including [PaperReview](https://huggingface.co/spaces/syaikhipin/PaperReview) (AI literature review), [Human-Rewriter](https://huggingface.co/spaces/syaikhipin/Human-Rewriter), and [Clovie Router](https://huggingface.co/spaces/syaikhipin/julioroute) (OpenAI-compatible API gateway)
 
 ## 🛠️ Stack
 
@@ -46,6 +44,3 @@
 Through **[arifin.uk](https://syaikhipin.github.io/landing-arifin)** — or just open an issue on any of my repos.
 
 ![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=syaikhipin&show_icons=true&theme=transparent&hide_rank=true)
-
----
-⚡ *The green "HIRE ME" on my contribution graph is 1,248 hand-placed commits. If you're reading this, it worked.*
