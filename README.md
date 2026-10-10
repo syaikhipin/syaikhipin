@@ -2,6 +2,8 @@
 
 **PhD researcher (Palermo)** · University of Murcia alumnus · I turn state-of-the-art AI into systems that actually ship.
 
+🏅 **Marie Skłodowska-Curie Actions (MSCA) Awardee** — European Commission
+
 ## 💼 Open to work
 
 **AI Research · Applied AI / LLM Engineering · ML Systems** — remote or EU-based.
@@ -28,7 +30,7 @@
 
 Through **[arifin.uk](https://syaikhipin.github.io/landing-arifin)** — or just open an issue on any of my repos.
 
-![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=syaikhipin&show_icons=true&theme=transparent)
+![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=syaikhipin&show_icons=true&theme=transparent&hide_rank=true)
 
 ---
 ⚡ *The green "HIRE ME" on my contribution graph is 1,248 hand-placed commits. If you're reading this, it worked.*
